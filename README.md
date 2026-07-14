@@ -5,3 +5,5 @@
 Created by Dibuseng Moloi
 
 This is my first Git repository.
+## Second Update
+This file has been updated after the initial commit.
